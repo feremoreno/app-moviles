@@ -1,0 +1,7 @@
+{
+  "name": "SciGnosis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
